@@ -10,7 +10,7 @@ At each Obsidian startup **one** new quote is fetched from the internet; this qu
 3. **Quote view:** An obsidian view gets created to display the current quote *(if you close the view a command to reopen it appears in the command palette)*
 4. **Insert quote in current selection**: Insert the quote in the current selection (or at cursor position) of a note - this includes a link to the author wikipedia page*(you can set an hot key for this)*
 
-*why only one quote?* - this is to avoid wasting time scrolling through quotes; read the one you get and think about it, if it inspires you, write about it (or do what you you wish) if not come back tomorrow.
+*why only one quote?* - this is to avoid wasting time scrolling through quotes; read the one you get and think about it, if it inspires you, write about it (or do what you wish) if not come back tomorrow.
 
 ## Settings
 Currently the only available setting is to turn ON or OFF the startup quote popup.
