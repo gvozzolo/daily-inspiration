@@ -14,3 +14,7 @@ At each Obsidian startup **one** new quote is fetched from the internet; this qu
 
 ## Settings
 Currently the only available setting is to turn ON or OFF the startup quote popup.
+
+If you like this plugin and would like to buy me a coffee, you can!
+
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/gvozzolo)
