@@ -1,0 +1,10 @@
+{
+	"id": "daily-inspiration",
+	"name": "Daily Inspiration",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin aims to inspire you every day",
+	"author": "Giuseppe Vozzolo",
+	"fundingURL":"https://buymeacoffee.com/gvozzolo",
+	"isDesktopOnly": false
+}

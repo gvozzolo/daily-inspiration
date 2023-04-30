@@ -1,0 +1,25 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.quote {
+    border: 2px solid var(--background-modifier-border);
+    border-radius:5px;
+    padding: 25px;
+}
+
+.quote_content {
+    font-weight: 600;
+}
+
+.quote_author {
+    font-weight: 500;
+    font-style: italic;
+    text-align: right;
+    color: var(--text-accent);
+}
